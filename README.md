@@ -1,2 +1,2 @@
-# qweqsdf-sdf.sdf.io
+# qweqsdf-sdf.github.io
 боги древнего египта
